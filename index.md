@@ -1,8 +1,9 @@
 ## Welcome to 1337.az !
 
-You can use the [editor on GitHub](https://github.com/Medusa-Group/Medusa-Group.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+We are a community of information security enthuasiasts aiming to contribute to the growth and development of our community. Our community houses both experienced veterans in the field as well as, eager newcomers. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to join us on our [forum](https:\\forum.1337.az) where we discuss variety of topics regarding information security. We will be hosting events to commemorate our community, so make sure you are registered till then ! 
+
 
 ### Markdown
 
