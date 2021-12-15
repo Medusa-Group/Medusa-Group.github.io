@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 1337.az !
 
 You can use the [editor on GitHub](https://github.com/Medusa-Group/Medusa-Group.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
